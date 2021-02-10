@@ -1,2 +1,2 @@
 # hello-git
-gitpractice
+branch2
